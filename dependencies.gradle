@@ -31,7 +31,7 @@ dependencies {
     getplugins 'org.jenkins-ci.plugins.workflow:workflow-cps-global-lib:2.9@hpi'
     getplugins 'org.jenkins-ci.plugins.workflow:workflow-cps:2.41@hpi'
     getplugins 'org.jenkins-ci.plugins.workflow:workflow-durable-task-step:2.15@hpi'
-    getplugins 'org.jenkins-ci.plugins.workflow:workflow-job:2.12.2@hpi'
+    getplugins 'org.jenkins-ci.plugins.workflow:workflow-job:2.14.1@hpi'
     getplugins 'org.jenkins-ci.plugins.workflow:workflow-multibranch:2.16@hpi'
     getplugins 'org.jenkins-ci.plugins.workflow:workflow-scm-step:2.6@hpi'
     getplugins 'org.jenkins-ci.plugins.workflow:workflow-step-api:2.13@hpi'
