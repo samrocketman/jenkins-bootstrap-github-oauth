@@ -25,10 +25,12 @@ Clone this repository and all submodules.
 
     ./jenkins_bootstrap.sh
 
+Alternatively, Vagrant can be used instead.
+
 ### Vagrant bootstrap (all platforms)
 
-This repository optionally uses [Vagrant][vagrant].  To bootstrap Jenkins simply
-run the following to start Jenkins.
+Alternately, bootstrap with [Vagrant][vagrant] (required if using Windows).  To
+bootstrap Jenkins simply run the following to start Jenkins.
 
     vagrant up
     export VAGRANT_JENKINS=1
