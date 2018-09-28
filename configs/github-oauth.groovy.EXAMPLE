@@ -1,4 +1,4 @@
-github_realm [
+github_realm = [
     client_id: '',
     client_secret: ''
 ]
