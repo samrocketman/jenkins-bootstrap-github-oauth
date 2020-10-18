@@ -69,7 +69,7 @@ The system packages will be located in `./build/distributions/`.
 
 ### Upgrade Jenkins and plugins
 
-To upgrade Jenkins master and plugin versions do the following:
+To upgrade Jenkins server and plugin versions do the following:
 
     ./jenkins_bootstrap.sh
     ./jenkins-bootstrap-shared/scripts/upgrade/upgrade_build_gradle.sh
